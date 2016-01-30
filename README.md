@@ -1,2 +1,7 @@
 # hello-world
-First repository
+
+Here I am. Peekay by name! 
+I am here to express myself quantatively!
+
+
+
